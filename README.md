@@ -29,14 +29,6 @@ I'm a software engineer with a passion for backend web development, mobile appli
 #### Data Science
 - **Python**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 
-### Projects and Contributions
-
-Check out some of my projects and contributions:
-
-- [Project 1](https://github.com/danielkeb/Intern_project)
-- [Project 2](https://github.com/danielkeb/django_restapi_development)
-- [Project 3](https://github.com/danielkeb/data_analysis)
-- [Project 4](https://github.com/danielkeb/agsms-mobile-version)
 
 ### GitHub Stats
 
