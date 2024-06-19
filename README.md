@@ -11,7 +11,7 @@ I'm a software engineer with a passion for backend web development, mobile appli
 - 💬 Ask me about backend technologies, mobile app development, and data science.
 - 📫 How to reach me: [Email](mailto:danielkebede381@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-kebede-55872b269/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and frameworks in my free time.
+- ⚡ Fun fact: I love exploring new technologies and playing game in my free time.
 
 ### My Tech Stack
 
