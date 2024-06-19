@@ -9,7 +9,7 @@ I'm a software engineer with a passion for backend web development, mobile appli
 - 👯 I’m looking to collaborate on open source software.
 - 🤔 I’m looking for help with advanced data science projects and large-scale backend systems.
 - 💬 Ask me about backend technologies, mobile app development, and data science.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [Twitter](https://twitter.com/your-twitter)
+- 📫 How to reach me: [Email](mailto:danielkebede381@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-kebede-55872b269/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and frameworks in my free time.
 
@@ -17,7 +17,8 @@ I'm a software engineer with a passion for backend web development, mobile appli
 
 #### Backend
 - **Node.js**: [NestJS](https://nestjs.com/)
-- **Python**: Django, Flask
+- **Python**: [Django](https://docs.djangoproject.com/en/5.0/)
+- **Php**: [Laravel](https://laravel.com/)
 
 #### Frontend
 - **JavaScript/TypeScript**: [React](https://reactjs.org/), [Next.js](https://nextjs.org/)
@@ -32,20 +33,21 @@ I'm a software engineer with a passion for backend web development, mobile appli
 
 Check out some of my projects and contributions:
 
-- [Project 1](https://github.com/your-username/project-1)
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
+- [Project 1](https://github.com/danielkeb/Intern_project)
+- [Project 2](https://github.com/danielkeb/django_restapi_development)
+- [Project 3](https://github.com/danielkeb/data_analysis)
+- [Project 4](https://github.com/danielkeb/agsms-mobile-version)
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkeb&show_icons=true&theme=radical)
+
 
 ### Let's Connect!
 
 Feel free to reach out if you want to collaborate on projects or just have a chat about technology.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kebede-55872b269/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-danielkebede381@gmail.com)
 
 Thanks for stopping by! 😊
