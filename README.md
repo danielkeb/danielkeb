@@ -32,7 +32,7 @@ I'm a software engineer with a passion for backend web development, mobile appli
 
 ### GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkeb&show_icons=true&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielk&show_icons=true&theme=radical)
 
 
 <h3 align="left">Connect with me:</h3>
