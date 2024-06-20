@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Daniel
+## Hi 👋, I'm Daniel
 
 I'm a software engineer with a passion for backend web development, mobile application development, and data science.
 
@@ -7,7 +7,6 @@ I'm a software engineer with a passion for backend web development, mobile appli
 - 🔭 I am interested in backend web development and mobile application development.
 - 🌱 I am currently working as a fullstack developer.
 - 👯 I’m looking to collaborate on open source software.
-- 🤔 I’m looking for help with advanced data science projects and large-scale backend systems.
 - 💬 Ask me about backend technologies, mobile app development, and data science.
 - 📫 How to reach me: [Email](mailto:danielkebede381@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-kebede-55872b269/)
 - 😄 Pronouns: He/Him
