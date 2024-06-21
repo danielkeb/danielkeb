@@ -15,7 +15,7 @@ I'm a software engineer with a passion for backend web development, mobile appli
 ### My Tech Stack
 
 #### Backend
-- **Node.js**: [ExpressJS]/[NestJS](https://nestjs.com/)
+- **Node.js**:[NestJS](https://nestjs.com/)
 - **Python**: [Django](https://docs.djangoproject.com/en/5.0/)
 - **Php**: [Laravel](https://laravel.com/)
 
