@@ -15,12 +15,12 @@ I'm a software engineer with a passion for backend web development, mobile appli
 ### My Tech Stack
 
 #### Backend
-- **Node.js**:[NestJS](https://nestjs.com/)
+- **Node.js**:[NestJS](https://nestjs.com/), [ExpressJs](https://expressjs.com)
 - **Python**: [Django](https://docs.djangoproject.com/en/5.0/)
 - **Php**: [Laravel](https://laravel.com/)
 
 #### Frontend
-- **JavaScript/TypeScript**: [React](https://reactjs.org/), [Next.js](https://nextjs.org/)
+- **JavaScript/TypeScript**: [React](https://reactjs.org/), [Next.js](https://nextjs.org/),[Angular](https://angular.io)
 
 #### Mobile
 - **Dart**: [Flutter](https://flutter.dev/)
